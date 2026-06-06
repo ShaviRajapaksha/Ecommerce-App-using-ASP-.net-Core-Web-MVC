@@ -12,7 +12,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a6c491a-6ecb-4514-a226-797b17f533e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/Models/ViewModels/OrderProductViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/.idea/.idea.MyEcommerceMvc.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/.idea/.idea.MyEcommerceMvc.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/.idea/.idea.MyEcommerceMvc.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/Data/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyEcommerceMvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyEcommerceMvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/MyEcommerceMvc.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/MyEcommerceMvc.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +40,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="12" />
+    <option name="cachedIndexableFilesCount" value="13" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +58,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Data/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Models/Category.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Models/Order.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Models/OrderProduct.cs" root0="FORCE_HIGHLIGHTING" />
@@ -57,61 +75,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0011378862584754" />
-      <entry key="MS500" value="1.3116805839353602" />
-      <entry key="S2" value="2.462500033059567" />
-      <entry key="S5" value="4.241186494859848" />
-      <entry key="S10" value="5.88018018420449" />
-      <entry key="S30" value="7.7219953531079835" />
-      <entry key="S60" value="8.324875757160966" />
-      <entry key="M2" value="8.652842030330824" />
-      <entry key="M5" value="8.858757160706627" />
-      <entry key="M10" value="8.928975396918734" />
-      <entry key="M15" value="8.952560174409948" />
-      <entry key="M30" value="8.976234917965197" />
-      <entry key="H1" value="8.988106143333795" />
-      <entry key="H2" value="8.994050239831822" />
-      <entry key="H4" value="8.997024411591436" />
-      <entry key="D1" value="8.999503970189117" />
-      <entry key="W1" value="8.999929136188014" />
+      <entry key="MS100" value="3.4553283968626605E-72" />
+      <entry key="MS500" value="5.101518064837411E-15" />
+      <entry key="S2" value="2.788945540511429E-4" />
+      <entry key="S5" value="0.04784590084218925" />
+      <entry key="S10" value="0.2963202133824922" />
+      <entry key="S30" value="1.3126835062385482" />
+      <entry key="S60" value="3.7186086516586165" />
+      <entry key="M2" value="9.353029489529932" />
+      <entry key="M5" value="18.637905395756896" />
+      <entry key="M10" value="23.92794531572942" />
+      <entry key="M15" value="26.069212681989278" />
+      <entry key="M30" value="28.857579448625035" />
+      <entry key="H1" value="32.66897669460142" />
+      <entry key="H2" value="38.06945398763127" />
+      <entry key="H4" value="43.104913581447285" />
+      <entry key="D1" value="49.42238231342725" />
+      <entry key="W1" value="50.76718424347488" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000587928402112" />
+      <entry key="S5" value="1.0203109486867314" />
+      <entry key="S10" value="1.1427013206409635" />
+      <entry key="S30" value="1.658547263990858" />
+      <entry key="S60" value="2.6155511069979416" />
+      <entry key="M2" value="4.288701902645025" />
+      <entry key="M5" value="6.4999909886764256" />
+      <entry key="M10" value="7.613758054591833" />
+      <entry key="M15" value="8.042384797387307" />
+      <entry key="M30" value="8.50358870811731" />
+      <entry key="H1" value="8.747220637166478" />
+      <entry key="H2" value="8.872444520558343" />
+      <entry key="H4" value="8.935927965069101" />
+      <entry key="D1" value="8.989280209300054" />
+      <entry key="W1" value="8.998467591155933" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9670430935829347" />
-      <entry key="MS500" value="1.3029014179442895" />
-      <entry key="S2" value="2.4584387517717365" />
-      <entry key="S5" value="4.238511890463207" />
-      <entry key="S10" value="5.878356231395224" />
-      <entry key="S30" value="7.721201758285846" />
-      <entry key="S60" value="8.324448239623372" />
-      <entry key="M2" value="8.652619883610212" />
-      <entry key="M5" value="8.858666191013002" />
-      <entry key="M10" value="8.928929551756159" />
-      <entry key="M15" value="8.952529530257895" />
-      <entry key="M30" value="8.9762195553728" />
-      <entry key="H1" value="8.988098451878168" />
-      <entry key="H2" value="8.994046391560348" />
-      <entry key="H4" value="8.997022486819311" />
-      <entry key="D1" value="8.999503649305336" />
-      <entry key="W1" value="8.999929090345308" />
+      <entry key="MS100" value="4.80676153784489E-13" />
+      <entry key="MS500" value="0.0034385117717324293" />
+      <entry key="S2" value="0.24237169645011777" />
+      <entry key="S5" value="0.6211160386080622" />
+      <entry key="S10" value="1.1404550234026802" />
+      <entry key="S30" value="2.7899192373460124" />
+      <entry key="S60" value="6.150940908349063" />
+      <entry key="M2" value="13.455236257825794" />
+      <entry key="M5" value="25.00669025987578" />
+      <entry key="M10" value="31.460793083678475" />
+      <entry key="M15" value="34.053621375655986" />
+      <entry key="M30" value="37.329975219779186" />
+      <entry key="H1" value="41.400007156051636" />
+      <entry key="H2" value="46.93364637370728" />
+      <entry key="H4" value="52.036674356033174" />
+      <entry key="D1" value="58.410962039287696" />
+      <entry key="W1" value="59.76555161582689" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -194,6 +212,8 @@
       <updated>1780668612991</updated>
       <workItem from="1780668614031" duration="185000" />
       <workItem from="1780668865243" duration="307000" />
+      <workItem from="1780685930949" duration="1181000" />
+      <workItem from="1780761521165" duration="1528000" />
     </task>
     <task id="LOCAL-00001" summary="Ft: Base files">
       <option name="closed" value="true" />
@@ -211,7 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1780676047858</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".idea">
+      <option name="closed" value="true" />
+      <created>1780676131807</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780676131807</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ft: Created Order Product View Model">
+      <option name="closed" value="true" />
+      <created>1780676150739</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780676150739</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +270,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Ft: Base files" />
     <MESSAGE value="Ft: Created User Profile View Model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ft: Created User Profile View Model" />
+    <MESSAGE value=".idea" />
+    <MESSAGE value="Ft: Created Order Product View Model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ft: Created Order Product View Model" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
