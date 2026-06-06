@@ -1,31 +1,38 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using MyEcommerceMvc.Models;
+using Microsoft.EntityFrameworkCore;
+using MyEcommerceMvc.Data;
 
 namespace MyEcommerceMvc.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
+    private readonly ApplicationDbContext _context;
+    
+    public HomeController(ApplicationDbContext context)
     {
-        _logger = logger;
+        _context = context;
     }
-
-    public IActionResult Index()
+    
+    public async Task<IActionResult> Index()
     {
-        return View();
+        var totalProducts = await _context.Products.CountAsync();
+        var totalOrders = await _context.Orders.CountAsync();
+        var totalUsers = await _context.Users.CountAsync();
+        var recentOrders = await _context.Orders
+            .Include(o => o.User)
+            .OrderByDescending(o => o.OrderDate)
+            .Take(5)
+            .ToListAsync();
+        
+        ViewBag.TotalProducts = totalProducts;
+        ViewBag.TotalOrders = totalOrders;
+        ViewBag.TotalUsers = totalUsers;
+        
+        return View(recentOrders);
     }
-
+    
     public IActionResult Privacy()
     {
         return View();
-    }
-
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
