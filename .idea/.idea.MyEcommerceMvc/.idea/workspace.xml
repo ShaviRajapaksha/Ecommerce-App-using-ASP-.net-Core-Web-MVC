@@ -12,18 +12,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a6c491a-6ecb-4514-a226-797b17f533e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/.idea/.idea.MyEcommerceMvc.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/.idea/.idea.MyEcommerceMvc.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/.idea/.idea.MyEcommerceMvc.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyEcommerceMvc/Data/ApplicationDbContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyEcommerceMvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyEcommerceMvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/Controllers/UsersController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/MyEcommerceMvc.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/MyEcommerceMvc.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/bin/Debug/net8.0/MyEcommerceMvc.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/bin/Debug/net8.0/MyEcommerceMvc.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/bin/Debug/net8.0/MyEcommerceMvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/bin/Debug/net8.0/MyEcommerceMvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/bin/Debug/net8.0/MyEcommerceMvc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/bin/Debug/net8.0/MyEcommerceMvc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/bin/Debug/net8.0/MyEcommerceMvc.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/bin/Debug/net8.0/MyEcommerceMvc.runtimeconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/MyEcommerceMvc.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/ref/MyEcommerceMvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/ref/MyEcommerceMvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/refint/MyEcommerceMvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/Debug/net8.0/refint/MyEcommerceMvc.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/MyEcommerceMvc.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MyEcommerceMvc/obj/project.nuget.cache" afterDir="false" />
@@ -40,7 +52,14 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="13" />
+    <option name="cachedIndexableFilesCount" value="14" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +77,11 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Controllers/CategoriesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Controllers/OrdersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Controllers/ProductsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Controllers/UsersController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Data/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Models/Category.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Models/Order.cs" root0="FORCE_HIGHLIGHTING" />
@@ -67,6 +91,18 @@
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Models/ViewModels/OrderProductViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Models/ViewModels/UserProfileViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Orders/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Orders/Create.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Products/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Products/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Users/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Users/Create.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/Views/Users/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyEcommerceMvc/appsettings.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -75,61 +111,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="3.4553283968626605E-72" />
-      <entry key="MS500" value="5.101518064837411E-15" />
-      <entry key="S2" value="2.788945540511429E-4" />
-      <entry key="S5" value="0.04784590084218925" />
-      <entry key="S10" value="0.2963202133824922" />
-      <entry key="S30" value="1.3126835062385482" />
-      <entry key="S60" value="3.7186086516586165" />
-      <entry key="M2" value="9.353029489529932" />
-      <entry key="M5" value="18.637905395756896" />
-      <entry key="M10" value="23.92794531572942" />
-      <entry key="M15" value="26.069212681989278" />
-      <entry key="M30" value="28.857579448625035" />
-      <entry key="H1" value="32.66897669460142" />
-      <entry key="H2" value="38.06945398763127" />
-      <entry key="H4" value="43.104913581447285" />
-      <entry key="D1" value="49.42238231342725" />
-      <entry key="W1" value="50.76718424347488" />
-    </decayedCancelled>
-    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000587928402112" />
-      <entry key="S5" value="1.0203109486867314" />
-      <entry key="S10" value="1.1427013206409635" />
-      <entry key="S30" value="1.658547263990858" />
-      <entry key="S60" value="2.6155511069979416" />
-      <entry key="M2" value="4.288701902645025" />
-      <entry key="M5" value="6.4999909886764256" />
-      <entry key="M10" value="7.613758054591833" />
-      <entry key="M15" value="8.042384797387307" />
-      <entry key="M30" value="8.50358870811731" />
-      <entry key="H1" value="8.747220637166478" />
-      <entry key="H2" value="8.872444520558343" />
-      <entry key="H4" value="8.935927965069101" />
-      <entry key="D1" value="8.989280209300054" />
-      <entry key="W1" value="8.998467591155933" />
+      <entry key="S2" value="1.0000785551694975" />
+      <entry key="S5" value="1.0713847356490878" />
+      <entry key="S10" value="1.940388728536064" />
+      <entry key="S30" value="9.035972608933596" />
+      <entry key="S60" value="18.06794692420437" />
+      <entry key="M2" value="28.200419981419646" />
+      <entry key="M5" value="39.664529680166645" />
+      <entry key="M10" value="51.74517460836419" />
+      <entry key="M15" value="62.34177913103805" />
+      <entry key="M30" value="82.74802414426257" />
+      <entry key="H1" value="99.69856216046605" />
+      <entry key="H2" value="110.782397318534" />
+      <entry key="H4" value="119.55662701457454" />
+      <entry key="D1" value="212.58618015034065" />
+      <entry key="W1" value="290.65315381892225" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="5.1985301944281955E-82" />
+      <entry key="MS500" value="5.5357454806341344E-17" />
+      <entry key="S2" value="8.625693627213931E-5" />
+      <entry key="S5" value="0.023676511278491744" />
+      <entry key="S10" value="0.15394491887879244" />
+      <entry key="S30" value="0.5776934625792056" />
+      <entry key="S60" value="0.9365534451861431" />
+      <entry key="M2" value="1.3085303337118819" />
+      <entry key="M5" value="2.0990649699421735" />
+      <entry key="M10" value="5.698974837930692" />
+      <entry key="M15" value="9.995770405201876" />
+      <entry key="M30" value="18.99858574081605" />
+      <entry key="H1" value="26.73901031487899" />
+      <entry key="H2" value="31.853201269745366" />
+      <entry key="H4" value="35.50467032791534" />
+      <entry key="D1" value="62.11216385240702" />
+      <entry key="W1" value="83.11834167833236" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.80676153784489E-13" />
-      <entry key="MS500" value="0.0034385117717324293" />
-      <entry key="S2" value="0.24237169645011777" />
-      <entry key="S5" value="0.6211160386080622" />
-      <entry key="S10" value="1.1404550234026802" />
-      <entry key="S30" value="2.7899192373460124" />
-      <entry key="S60" value="6.150940908349063" />
-      <entry key="M2" value="13.455236257825794" />
-      <entry key="M5" value="25.00669025987578" />
-      <entry key="M10" value="31.460793083678475" />
-      <entry key="M15" value="34.053621375655986" />
-      <entry key="M30" value="37.329975219779186" />
-      <entry key="H1" value="41.400007156051636" />
-      <entry key="H2" value="46.93364637370728" />
-      <entry key="H4" value="52.036674356033174" />
-      <entry key="D1" value="58.410962039287696" />
-      <entry key="W1" value="59.76555161582689" />
+      <entry key="MS100" value="0.8888426811665702" />
+      <entry key="MS500" value="0.9767085289622274" />
+      <entry key="S2" value="0.9942573854616376" />
+      <entry key="S5" value="1.0884678620592212" />
+      <entry key="S10" value="2.0779884659034056" />
+      <entry key="S30" value="9.588361402963109" />
+      <entry key="S60" value="18.98008465966185" />
+      <entry key="M2" value="29.49016434179644" />
+      <entry key="M5" value="41.74964773449968" />
+      <entry key="M10" value="57.422886543686154" />
+      <entry key="M15" value="72.31216235467939" />
+      <entry key="M30" value="101.72221792915846" />
+      <entry key="H1" value="126.42035482596704" />
+      <entry key="H2" value="142.6253304414794" />
+      <entry key="H4" value="155.0555291121146" />
+      <entry key="D1" value="274.6963754327206" />
+      <entry key="W1" value="373.77109533122916" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -148,7 +184,12 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;.NET Launch Settings Profile.MyEcommerceMvc: http.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-git.push.result&quot;: &quot;&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-vcs.commit.finished&quot;: &quot;1 file committed&quot;,
+    &quot;Notification.DoNotAsk-git.push.result&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-vcs.commit.finished&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -213,7 +254,10 @@
       <workItem from="1780668614031" duration="185000" />
       <workItem from="1780668865243" duration="307000" />
       <workItem from="1780685930949" duration="1181000" />
-      <workItem from="1780761521165" duration="1528000" />
+      <workItem from="1780761521165" duration="5576000" />
+      <workItem from="1781020253800" duration="1408000" />
+      <workItem from="1781021725772" duration="270000" />
+      <workItem from="1781022034447" duration="1357000" />
     </task>
     <task id="LOCAL-00001" summary="Ft: Base files">
       <option name="closed" value="true" />
@@ -247,7 +291,103 @@
       <option name="project" value="LOCAL" />
       <updated>1780676150739</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Project Files">
+      <option name="closed" value="true" />
+      <created>1780767644705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780767644706</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ft: Create Application Db Context">
+      <option name="closed" value="true" />
+      <created>1780767750097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780767750097</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ft: Created HomeController">
+      <option name="closed" value="true" />
+      <created>1780769929431</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780769929431</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ft: Created User Controller">
+      <option name="closed" value="true" />
+      <created>1780854296151</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780854296151</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ft: update layout">
+      <option name="closed" value="true" />
+      <created>1781023212882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023212883</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update app settings">
+      <option name="closed" value="true" />
+      <created>1781023233683</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023233683</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ft: Created CategoriesController">
+      <option name="closed" value="true" />
+      <created>1781023257621</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023257621</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ft: Create Order View">
+      <option name="closed" value="true" />
+      <created>1781023282807</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023282807</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ft: Create View files">
+      <option name="closed" value="true" />
+      <created>1781023317726</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023317726</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Ft: Update Home Controller">
+      <option name="closed" value="true" />
+      <created>1781023332740</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023332740</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Ft: Created Order Controller">
+      <option name="closed" value="true" />
+      <created>1781023351386</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023351386</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ft: Create ProductsController">
+      <option name="closed" value="true" />
+      <created>1781023367308</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1781023367308</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +412,19 @@
     <MESSAGE value="Ft: Created User Profile View Model" />
     <MESSAGE value=".idea" />
     <MESSAGE value="Ft: Created Order Product View Model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ft: Created Order Product View Model" />
+    <MESSAGE value="Project Files" />
+    <MESSAGE value="Ft: Create Application Db Context" />
+    <MESSAGE value="Ft: Created HomeController" />
+    <MESSAGE value="ft: Created User Controller" />
+    <MESSAGE value="Ft: update layout" />
+    <MESSAGE value="Update app settings" />
+    <MESSAGE value="Ft: Created CategoriesController" />
+    <MESSAGE value="Ft: Create Order View" />
+    <MESSAGE value="Ft: Create View files" />
+    <MESSAGE value="Ft: Update Home Controller" />
+    <MESSAGE value="Ft: Created Order Controller" />
+    <MESSAGE value="Ft: Create ProductsController" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ft: Create ProductsController" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
